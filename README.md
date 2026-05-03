@@ -81,7 +81,7 @@ Highlighted important metrics and performance indicators
 
 Clone the repository
 
-git clone <your-repo-link>
+git clone <https://github.com/od0602/customer_-trends_-analysis>
 
 Install required Python libraries
 pip install pandas numpy matplotlib seaborn
