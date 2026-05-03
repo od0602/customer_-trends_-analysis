@@ -1,17 +1,63 @@
 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
 ----------------------------------------------------------------------------------------------------------------------------------------------
-📌 Project Overview
-The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
+📌 Overview
 
-✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+This project demonstrates an end-to-end data analytics workflow, starting from data loading and preprocessing to visualization and reporting. The goal is to extract meaningful insights from raw data and present them in an interactive and easy-to-understand format using Power BI.
 
-✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+📂 Dataset
+The dataset is loaded using Python.
+It may contain structured data such as CSV/Excel/Database tables.
+Includes relevant features used for analysis and visualization.
+🛠️ Tools & Technologies
+Python – Data loading, cleaning, and preprocessing
+Pandas & NumPy – Data manipulation
+SQL (PostgreSQL/MySQL/SQL Server) – Querying and data analysis
+Power BI – Interactive dashboard creation
+DAX – Data modeling and calculations
+Gamma – Report creation and presentation
+⚙️ Steps / Workflow
+Data Loading
+Imported dataset using Python
+Data Cleaning
+Handled missing values
+Removed duplicates
+Formatted data types
+Exploratory Data Analysis (EDA)
+Identified trends and patterns
+Used statistical summaries
+SQL Analysis
+Performed queries to extract insights
+Aggregations, joins, filtering
+Dashboard Creation
+Built interactive Power BI dashboard
+Used charts, filters, and slicers
+Reporting
+Created a structured report using Gamma
+Highlighted key findings and insights
+📊 Dashboard
+Interactive visualizations
+KPI indicators
+Filters for dynamic analysis
+User-friendly layout
+📈 Results / Insights
+Identified key trends and patterns in data
+Improved decision-making using visual insights
+Highlighted important metrics and performance indicators
+▶️ How to Run
 
-✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+Clone the repository
 
-✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+git clone <your-repo-link>
 
-Project Workflow
+Install required Python libraries
+
+pip install pandas numpy matplotlib seaborn
+Run the Python script/notebook for data processing
+Execute SQL queries in your preferred database (PostgreSQL/MySQL/SQL Server)
+Open the Power BI file (.pbix) to view the dashboard
+📌 Conclusion
+
+This project showcases practical skills in data analytics, including data cleaning, SQL querying, visualization, and reporting. It reflects the ability to turn raw data into actionable insights.
 <img width="928" height="518" alt="image" src="https://github.com/user-attachments/assets/295db0c7-8133-4cb3-b358-9580f155a20c" />
 
 
