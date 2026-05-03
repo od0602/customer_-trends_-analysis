@@ -8,6 +8,8 @@ This project demonstrates an end-to-end data analytics workflow, starting from d
 The dataset is loaded using Python.
 It may contain structured data such as CSV/Excel/Database tables.
 Includes relevant features used for analysis and visualization.
+
+
 🛠️ Tools & Technologies
 Python – Data loading, cleaning, and preprocessing
 Pandas & NumPy – Data manipulation
@@ -15,6 +17,8 @@ SQL (PostgreSQL/MySQL/SQL Server) – Querying and data analysis
 Power BI – Interactive dashboard creation
 DAX – Data modeling and calculations
 Gamma – Report creation and presentation
+
+
 ⚙️ Steps / Workflow
 Data Loading
 Imported dataset using Python
@@ -34,11 +38,15 @@ Used charts, filters, and slicers
 Reporting
 Created a structured report using Gamma
 Highlighted key findings and insights
+
+
 📊 Dashboard
 Interactive visualizations
 KPI indicators
 Filters for dynamic analysis
 User-friendly layout
+
+
 📈 Results / Insights
 Identified key trends and patterns in data
 Improved decision-making using visual insights
@@ -50,6 +58,7 @@ Clone the repository
 git clone <your-repo-link>
 
 Install required Python libraries
+pip install pandas numpy matplotlib seaborn
 
 pip install pandas numpy matplotlib seaborn
 Run the Python script/notebook for data processing
