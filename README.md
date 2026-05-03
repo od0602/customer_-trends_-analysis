@@ -75,7 +75,9 @@ User-friendly layout
 Identified key trends and patterns in data
 Improved decision-making using visual insights
 Highlighted important metrics and performance indicators
+
 ▶️ How to Run
+
 
 Clone the repository
 
