@@ -12,6 +12,9 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
 Project Workflow
+<img width="928" height="518" alt="image" src="https://github.com/user-attachments/assets/295db0c7-8133-4cb3-b358-9580f155a20c" />
+
+
 
 🛠️ How to Use This Project
 Clone the repository
@@ -57,16 +60,6 @@ Follow along with the YouTube video for full walkthrough. 👨‍💼
 📜 License
 MIT — feel free to fork, star, and use in your portfolio.
 
-👨‍💻 About the Author
-Hey, I’m Amlan Mohanty, a Data Analyst & Content Creator. I break down complex data topics into simple, practical content that actually helps you land a job.
-
-🚀 Stay Connected & Join my Data Community
-If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
-
-🎥 YouTube: Amlan Mohanty
-
-Beginner-friendly tutorials, real-world projects, job and career advice
-📺 Instagram: datacareerschool
 
 Quick SQL tips, data memes, and behind-the-scenes content
 💼 LinkedIn: Amlan Mohanty
