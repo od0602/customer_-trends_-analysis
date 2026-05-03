@@ -90,6 +90,7 @@ pip install pandas numpy matplotlib seaborn
 Run the Python script/notebook for data processing
 Execute SQL queries in your preferred database (PostgreSQL/MySQL/SQL Server)
 Open the Power BI file (.pbix) to view the dashboard
+
 📌 Conclusion
 
 This project showcases practical skills in data analytics, including data cleaning, SQL querying, visualization, and reporting. It reflects the ability to turn raw data into actionable insights.
