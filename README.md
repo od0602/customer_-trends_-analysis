@@ -19,8 +19,6 @@ Project Workflow
 
 
 
-Quick SQL tips, data memes, and behind-the-scenes content
-💼 LinkedIn: Amlan Mohanty
 
-Let’s connect professionally and grow your data career
+Let’s connect professionally and grow  data career
 💡 Thanks for checking out the project! Your support means a lot! 
