@@ -12,31 +12,55 @@ Includes relevant features used for analysis and visualization.
 
 🛠️ Tools & Technologies
 Python – Data loading, cleaning, and preprocessing
+
 Pandas & NumPy – Data manipulation
+
 SQL (PostgreSQL/MySQL/SQL Server) – Querying and data analysis
+
 Power BI – Interactive dashboard creation
+
 DAX – Data modeling and calculations
+
 Gamma – Report creation and presentation
 
 
+
 ⚙️ Steps / Workflow
+
 Data Loading
+
 Imported dataset using Python
+
 Data Cleaning
+
 Handled missing values
+
 Removed duplicates
+
 Formatted data types
+
 Exploratory Data Analysis (EDA)
+
 Identified trends and patterns
+
 Used statistical summaries
+
 SQL Analysis
+
 Performed queries to extract insights
+
 Aggregations, joins, filtering
+
 Dashboard Creation
+
 Built interactive Power BI dashboard
+
 Used charts, filters, and slicers
+
 Reporting
+
 Created a structured report using Gamma
+
 Highlighted key findings and insights
 
 
